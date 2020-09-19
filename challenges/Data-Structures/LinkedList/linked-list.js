@@ -126,7 +126,15 @@ class LinkedList {
   } 
 
 }
-module.exports = {
-  Node,
-  LinkedList,
-};
+
+const linkedListInstance = new LinkedList();
+linkedListInstance.append(1);
+linkedListInstance.append(2);
+linkedListInstance.append(3);
+linkedListInstance.append(5);
+console.log(linkedListInstance.insertAfter(3,4));
+console.log(linkedListInstance.toString());
+console.log(linkedListInstance.kthFromEnd(0));
+
+
+module.exports = LinkedList;
