@@ -18,4 +18,7 @@ Created the node then a singly link list with all required methods then tested i
 
 
 
-### Solution : see the attach image
+### Solution : 
+
+![](codeChall05/codeChall05-1.jpg)
+![](codeChall05/codeChall05-2.jpg)
