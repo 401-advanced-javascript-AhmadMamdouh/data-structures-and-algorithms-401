@@ -69,4 +69,4 @@ class Node {
   }
   
 
-  module.exports = { stack: Stack, queue: Queue };
+  module.exports = Stack;
