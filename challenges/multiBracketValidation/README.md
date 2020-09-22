@@ -13,4 +13,4 @@ Acually my solution is not efficient but I'm planning to try to use stacks to at
 
 ### Solution :
 
-![](codeChall-13)
+![](codeChall-13.jpg)
