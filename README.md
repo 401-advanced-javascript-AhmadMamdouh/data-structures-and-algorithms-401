@@ -16,4 +16,4 @@ data-structures-and-algorithms-401
 | Code Challenge: Class 12|[fifoAnimalShelter](https://github.com/401-advanced-javascript-AhmadMamdouh/data-structures-and-algorithms-401/tree/fifoAnimalShelter/challenges/fifoAnimalShelter)|
 |Code Challenge: Class 13|[multiBracketValidation](https://github.com/401-advanced-javascript-AhmadMamdouh/data-structures-and-algorithms-401/tree/master/challenges/multiBracketValidation)|
 |Code Challenge: Class 15|[tree](https://github.com/401-advanced-javascript-AhmadMamdouh/data-structures-and-algorithms-401/tree/master/challenges/tree)|
-|Code Challenge: Class 16||
+|Code Challenge: Class 16|[MaxBinaryTree](https://github.com/401-advanced-javascript-AhmadMamdouh/data-structures-and-algorithms-401/blob/find-maximum-binary-tree/challenges/tree/tree.js)|
