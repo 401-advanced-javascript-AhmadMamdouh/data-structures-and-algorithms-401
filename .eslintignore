@@ -1,6 +1,14 @@
 **/node_modules/*
+<<<<<<< HEAD
 **/docs/*
 **/vendor/*
 **/*.min.js
 **/coverage/*
 **/build/*
+=======
+**/*.min.js
+**/vendor/*
+**/coverage/*
+**/build/*
+**/docs/*
+>>>>>>> d45828a3c3644df02668316600cbc9141840dbd2
