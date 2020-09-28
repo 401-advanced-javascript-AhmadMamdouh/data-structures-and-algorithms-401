@@ -22,7 +22,7 @@ Create a singly list with these features:
 Created the node then a singly link list with all required methods then tested if the methods work properly.
 
 ### Solution : see the attach image
-![](codeChall07img/codeChall07-01.jpg)
-![](codeChall07img/codeChall07-02.jpg)
-![](codeChall07img/codeChall07-03.jpg)
+![](codeChall07Img/codeChall07-01.jpg)
+![](codeChall07Img/codeChall07-02.jpg)
+![](codeChall07Img/codeChall07-03.jpg)
 
