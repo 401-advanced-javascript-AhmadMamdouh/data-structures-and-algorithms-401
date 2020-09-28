@@ -32,3 +32,5 @@ Should raise exception when called on empty stack
 Created the node then a stack and queue classes with all required methods then tested if the methods work properly.
 
 ### Solution : see the attach images .
+![](codeChall10-01.jpg)
+![](codeChall10-02.jpg)
