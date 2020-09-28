@@ -16,9 +16,12 @@ Create a singly list with these features:
 ### Approach & Efficiency
 Created the node then a singly link list with all required methods then tested if the methods work properly.
 
+### Solution : see the attach image
+#### code chall05
+![](codeChall05-1.jpg)
+![](codeChall05-2.jpg)
 
-
-### Solution : 
-
-![](codeChall05/codeChall05-1.jpg)
-![](codeChall05/codeChall05-2.jpg)
+#### code chall06
+![](./codeChall06-01.jpg)
+![](./codeChall06-02.jpg)
+![](./codeChall06-03.jpg)
