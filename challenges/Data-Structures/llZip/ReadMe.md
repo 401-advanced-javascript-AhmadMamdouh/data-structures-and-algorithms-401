@@ -14,3 +14,6 @@ append : space O(1) , time O(1) ,----> as it's one oppration.
 loop : space O(n) , time O(1),------> This is because the loop has a complexity O(n) and it is run n times.
 
 ## solution : see attached images 
+![](codeChall08/codeChall08-01.jpg)
+![](codeChall08/codeChall08-02.jpg)
+
