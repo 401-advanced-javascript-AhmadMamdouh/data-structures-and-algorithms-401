@@ -22,6 +22,6 @@ Created the node then a singly link list with all required methods then tested i
 ![](codeChall05-2.jpg)
 
 #### code chall06
-![](./codeChall06-01.jpg)
-![](./codeChall06-02.jpg)
-![](./codeChall06-03.jpg)
+![](codeChall06-01.jpg)
+![](codeChall06-02.jpg)
+![](codeChall06-03.jpg)
