@@ -19,3 +19,4 @@ data-structures-and-algorithms-401
 |Code Challenge: Class 16|[MaxBinaryTree](https://github.com/401-advanced-javascript-AhmadMamdouh/data-structures-and-algorithms-401/blob/find-maximum-binary-tree/challenges/tree/tree.js)|
 |Code Challenge: Class 17|[breadthFirst](https://github.com/401-advanced-javascript-AhmadMamdouh/data-structures-and-algorithms-401/tree/breadth-first/challenges/tree/breadthFirst)|
 |Code Challenge: Class 18|[fizzBuzzTree](https://github.com/401-advanced-javascript-AhmadMamdouh/data-structures-and-algorithms-401/tree/master/challenges/fizzBuzzTree)|
+|Code Challenge: Class 26|[InsertionSort](https://github.com/401-advanced-javascript-AhmadMamdouh/data-structures-and-algorithms-401/tree/master/challenges/InsertionSort)|
