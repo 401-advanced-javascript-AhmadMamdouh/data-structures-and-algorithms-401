@@ -21,3 +21,4 @@ data-structures-and-algorithms-401
 |Code Challenge: Class 18|[fizzBuzzTree](https://github.com/401-advanced-javascript-AhmadMamdouh/data-structures-and-algorithms-401/tree/master/challenges/fizzBuzzTree)|
 |Code Challenge: Class 26|[InsertionSort](https://github.com/401-advanced-javascript-AhmadMamdouh/data-structures-and-algorithms-401/tree/master/challenges/InsertionSort)|
 |Code Challenge: Class 27|[mergeSort](https://github.com/401-advanced-javascript-AhmadMamdouh/data-structures-and-algorithms-401/tree/insertion-sort/challenges/mergeSort)|
+|Code Challenge: Class 28|[quickSort](https://github.com/401-advanced-javascript-AhmadMamdouh/data-structures-and-algorithms-401/tree/master/challenges/quickSort)|
