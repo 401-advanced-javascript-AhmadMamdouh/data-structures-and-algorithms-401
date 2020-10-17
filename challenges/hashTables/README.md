@@ -16,4 +16,4 @@ Hash Tables implementation.
 
 
 ## Solution
-![](codeChall.jpg)
+![](codeChall30.jpg)
