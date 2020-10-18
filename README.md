@@ -23,3 +23,4 @@ data-structures-and-algorithms-401
 |Code Challenge: Class 27|[mergeSort](https://github.com/401-advanced-javascript-AhmadMamdouh/data-structures-and-algorithms-401/tree/insertion-sort/challenges/mergeSort)|
 |Code Challenge: Class 28|[quickSort](https://github.com/401-advanced-javascript-AhmadMamdouh/data-structures-and-algorithms-401/tree/master/challenges/quickSort)|
 |Code Challenge: Class 30|[hashTables](https://github.com/401-advanced-javascript-AhmadMamdouh/data-structures-and-algorithms-401/tree/master/challenges/hashTables)|
+|Code Challenge: Class 31|[repeatedWord](https://github.com/401-advanced-javascript-AhmadMamdouh/data-structures-and-algorithms-401/tree/repeated-word/challenges/repeatedWord)|
