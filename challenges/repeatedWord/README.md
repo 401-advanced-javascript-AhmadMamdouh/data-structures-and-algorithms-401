@@ -13,4 +13,4 @@ Features
 
 ### Solution
 
-![](codeChall31.jpg)
+![](ccodeChall31.jpg)
