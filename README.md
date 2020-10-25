@@ -27,3 +27,4 @@ data-structures-and-algorithms-401
 |Code Challenge: Class 32|[treeIntersection](https://github.com/401-advanced-javascript-AhmadMamdouh/data-structures-and-algorithms-401/tree/master/challenges/treeIntersection)|
 |Code Challenge: Class 32|[leftJoin](https://github.com/401-advanced-javascript-AhmadMamdouh/data-structures-and-algorithms-401/tree/master/challenges/leftJoin)|
 |Code Challenge: Class 35|[graphs](https://github.com/401-advanced-javascript-AhmadMamdouh/data-structures-and-algorithms-401/tree/master/challenges/graphs)|
+|Code Challenge: Class 36|[breadthFirstGraph](https://github.com/401-advanced-javascript-AhmadMamdouh/data-structures-and-algorithms-401/tree/master/challenges/breadthFirstGraph)|
