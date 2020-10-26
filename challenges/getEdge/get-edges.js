@@ -17,16 +17,16 @@ class Graph {
     console.log('ahmad', vertex);
     this._adjancyList.set(vertex, []);
   }
-  GetNodes(){
+  GetNodes() {
     return this._adjancyList.entries();
   }
-  Size(){
+  Size() {
     return this._adjancyList.size;
   }
   addDirectedEdge(startVertex, endVertex, weight) {
     if (
       !this._adjancyList.has(startVertex) ||
-        !this._adjancyList.has(endVertex)
+            !this._adjancyList.has(endVertex)
     ) {
       console.log('Vertex not found');
     } else {
@@ -34,11 +34,11 @@ class Graph {
       adjacencies.push(new Edge(endVertex, weight));
     }
   }
-  addUndirectedEdge(firstVertex, secondVertex, weight){
+  addUndirectedEdge(firstVertex, secondVertex, weight) {
     // not sure about this
     if (
       !this._adjancyList.has(firstVertex) ||
-        !this._adjancyList.has(secondVertex)
+            !this._adjancyList.has(secondVertex)
     ) {
       console.log('Vertex not found');
     } else {
@@ -57,32 +57,18 @@ class Graph {
       console.log('E>>', edge);
     }
   }
+  getEdge(arr) {
+    let cost = 0;
+    for (let i = arr.length - 1; i >= 0; i--) {
+      if (this._adjancyList.has(arr[i])) {
+        let neighbor = this._adjancyList.get(arr[i]);
+        if (!neighbor.includes(arr[i - 1])) {
+          return 'False, 0$';
+        }
+      }
+      cost = cost + this.weight;
+    }
+    return `True, ${cost}$`;
+
+  }
 }
-const graph = new Graph();
-const ten = new Vertex(10);
-const two = new Vertex(2);
-const six = new Vertex(6);
-const seven = new Vertex(7);
-const three = new Vertex(3);
-const eight = new Vertex(8);
-graph.addVertex(ten);
-graph.addVertex(two);
-graph.addVertex(six);
-graph.addVertex(seven);
-graph.addVertex(three);
-graph.addVertex(eight);
-graph.addDirectedEdge(ten, two);
-graph.addDirectedEdge(ten, six);
-graph.addDirectedEdge(ten, three);
-graph.addDirectedEdge(ten, seven);
-graph.addDirectedEdge(two, seven);
-graph.addDirectedEdge(six, seven);
-graph.addDirectedEdge(six, eight);
-graph.addDirectedEdge(three, seven);
-graph.addDirectedEdge(eight, three);
-// console.log(graph);
-// graph.printAll();
-// console.log('NEIGHBORS', graph.getNeighbors(ten));
-  
-console.log(graph.GetNodes());
-  
